@@ -1,0 +1,15 @@
+{
+  "name": "qrcode",
+  "version": "1.0.0",
+  "description": "gourav_fw14_186",
+  "main": "qrcode.js",
+  "scripts": {
+    "start": "node project.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode": "^1.5.0"
+  }
+}
